@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aequooque.nomoremrniceguy.co/sitemap.xml
